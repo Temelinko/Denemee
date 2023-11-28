@@ -386,5 +386,3 @@ def one_hot_encoder(dataframe, categorical_cols, drop_first=False):
 data = one_hot_encoder(data, cat_cols, drop_first=True)
 
 data.head()
-
-
