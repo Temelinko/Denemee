@@ -388,4 +388,3 @@ data = one_hot_encoder(data, cat_cols, drop_first=True)
 data.head()
 
 
-
